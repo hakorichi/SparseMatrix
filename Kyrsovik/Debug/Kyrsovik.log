@@ -1,0 +1,4 @@
+﻿  Matrix.cpp
+D:\Project\Projects\Kyrsovik4\Kyrsovik\Matrix.cpp(98,4): error C2065: 'cin': undeclared identifier
+D:\Project\Projects\Kyrsovik4\Kyrsovik\Matrix.cpp(99,4): error C2065: 'cin': undeclared identifier
+D:\Project\Projects\Kyrsovik4\Kyrsovik\Matrix.cpp(100,4): error C2065: 'cin': undeclared identifier
